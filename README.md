@@ -17,6 +17,6 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/Lsantosso/LeonardoSantos/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Lsantosso/Lsantosso/output/github-contribution-grid-snake.svg)
 
 
