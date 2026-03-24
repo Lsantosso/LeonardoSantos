@@ -16,9 +16,8 @@
 </div>
 
 <!--- snake --->
-<div align = "center">
-    <img src = "https://raw.githubusercontent.com/Lsantosso/Lsantosso/output/github-contribution-grid-snake.svg"
-    alt = "snake"/> 
-</div>
+<img src="https://raw.githubusercontent.com/Lsantosso/Lsantosso/output/snake.svg" alt="Snake animation" />
+
+###
 
 
